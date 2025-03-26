@@ -1,0 +1,20 @@
+[
+  {
+    "point_type": "artefato indígena",
+    "latitude": -3.465,
+    "longitude": -62.215,
+    "altitude": 100.5,
+    "srid": "4326",
+    "description": "Fragmento de cerâmica decorada",
+    "registered_by": "Matheus"
+  },
+  {
+    "point_type": "restos mortais",
+    "latitude": -3.467,
+    "longitude": -62.2165,
+    "altitude": 125.0,
+    "srid": "4326",
+    "description": "Ossos enterrados com colares",
+    "registered_by": "Matheus"
+  }
+]
