@@ -2,17 +2,17 @@
 
 CRUD em Python para catalogação e registro de escavações relacionadas a antigas comunidades indígenas da Amazônia.
 
-## 📌 Funcionalidades
+## Funcionalidades
 
-- ✅ Cadastrar novos pontos de escavação
-- ✅ Listar pontos salvos
-- ✅ Atualizar informações de um ponto existente
-- ✅ Remover registros inválidos
-- ✅ Persistência via SQLite
-- ✅ Validação com Pydantic
-- ✅ Terminal interativo
+- Cadastrar novos pontos de escavação
+- Listar pontos salvos
+- Atualizar informações de um ponto existente
+- Remover registros inválidos
+- Persistência via SQLite
+- Validação com Pydantic
+- Terminal interativo
 
-## 📁 Estrutura
+## Estrutura
 
 - `main.py` – Menu principal (linha de comando)
 - `crud.py` – Funções de criação, leitura, atualização e remoção
@@ -23,11 +23,10 @@ CRUD em Python para catalogação e registro de escavações relacionadas a anti
 - `test_insert_json.py` – Script para popular dados via JSON
 - `requirements.txt` – Dependências do projeto
 
-## 🚀 Como rodar
+## Como rodar
 
 1. Clone o repositório:
 
 ```bash
 git clone https://github.com/viniciusverona/escavacao-crud-vinicius.git
 cd escavacao-crud-vinicius
-
